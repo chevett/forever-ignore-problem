@@ -1,0 +1,15 @@
+{
+  "name": "forever-ignore-problem",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./start.sh",
+    "test": "./start.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "forever": "^0.11.1"
+  }
+}
